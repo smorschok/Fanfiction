@@ -1,5 +1,0 @@
-{
-    "port": 5000,
-    "jwtSecret": "itransition fanfiction",
-    "mongoUri":"mongodb+srv://smorschok:polaris3492@cluster0.pf0ta.mongodb.net/app?retryWrites=true&w=majority"
-}
